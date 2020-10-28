@@ -2,7 +2,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
 
   printf("char %ld\n", sizeof(char));
   printf("unsigned char %ld\n", sizeof(unsigned char));
