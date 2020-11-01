@@ -1,3 +1,9 @@
+/*
+# Antoine STERNA - 2020
+# <antoine.sterna@cpe.fr>
+# sizeof_types.c
+*/
+
 // sizeof: la taille de différents types de données (en octet)
 
 #include <stdio.h>

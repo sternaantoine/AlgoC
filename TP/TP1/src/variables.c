@@ -1,3 +1,9 @@
+/*
+# Antoine STERNA - 2020
+# <antoine.sterna@cpe.fr>
+# variables.c
+*/
+
 #include <stdio.h>
 
 int main()

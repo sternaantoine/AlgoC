@@ -1,3 +1,10 @@
+/*
+# Antoine STERNA - 2020
+# <antoine.sterna@cpe.fr>
+# opérateurs.c
+*/
+
+
 #include <stdio.h>
 
 //variable

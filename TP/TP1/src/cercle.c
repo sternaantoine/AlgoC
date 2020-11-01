@@ -1,3 +1,9 @@
+/*
+# Antoine STERNA - 2020
+# <antoine.sterna@cpe.fr>
+# cercle.c
+*/
+
 #include <stdio.h>
 #include <math.h>
 

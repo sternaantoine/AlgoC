@@ -1,3 +1,8 @@
+/*
+# Antoine STERNA - 2020
+# <antoine.sterna@cpe.fr>
+# bonjour.c
+*/
 #include <stdio.h>
 
 int main()
