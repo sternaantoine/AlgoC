@@ -30,7 +30,7 @@ les deux bits sont 1, il affiche 1 sinon 0.
 
 La suite de Fibonacci est une suite d'entiers définie comme suit :
 
--   U0=1
+-   U0=0
 -   U1=1
 -   Un= Un-1 + Un-2
 
