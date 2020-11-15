@@ -17,6 +17,7 @@ int fibonacci(int n)
  
 int main()
 {
+
   int nbr, i = 0, j;
  
   printf("Entrez le nombre de termes\n");
@@ -24,9 +25,9 @@ int main()
  
   printf("Les %d premiers termes de la série de Fibonacci sont:\n", nbr);
  
-  for (j = 1; j <= nbr; j++)
+  for (j = 0; j < nbr; j++)
   {
-    printf("U%d = %d\n", j - 1, fibonacci(i));
+    printf("U%d = %d\n", j , fibonacci(i));
     i++;
   }
  
