@@ -27,8 +27,8 @@ int main()
  
   for (j = 0; j < nbr; j++)
   {
-    printf("U%d = %d\n", j , fibonacci(i));
-    i++;
+    printf("U%d = %d\n", j , fibonacci(j));
+    
   }
  
   return 0;

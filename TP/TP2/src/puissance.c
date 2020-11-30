@@ -13,7 +13,7 @@ int puissance(int x, int y)
     {
         return(1); // Si la puissance vaut 0 alors le résultat vaudra forcément 1
     }
-    return (x * puissance(x,y-1)); // Recursivité pour calculer la puissance n fois
+    return (x *puissance(x,y-1)); // Recursivité pour calculer la puissance n fois
 }
 
 int main()

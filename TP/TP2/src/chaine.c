@@ -15,7 +15,7 @@ void compter(char *chaine)
 {
     while (chaine[compteur] != '\0')
     {
-
+    // *(chaine + compteur)    
         compteur++;
     }
     printf("%d", compteur);
