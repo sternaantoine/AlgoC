@@ -13,7 +13,7 @@ int main()
     while (i <= 1000) // Parcours des nombres de 0 à 1000
     {
 
-        if (i % 2 == 0 && i % 15 == 0) // Cas n° 1 ==> Divisible par 2 et 5
+        if (i % 2 == 0 && i % 15 == 0) // Cas n° 1 ==> Divisible par 2 et 15
         {
             printf("cas numéro 1 : %d\n", i);
         }

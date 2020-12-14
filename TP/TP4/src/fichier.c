@@ -25,7 +25,7 @@ void lire_fichier(char *nom_de_fichier)
     FILE *fichier = NULL;
     int caractere = 0;
 
-    fichier = fopen(nom_de_fichier, "r"); // Ouverture de fichier avec droit lecture ("r" poru read)
+    fichier = fopen(nom_de_fichier, "r"); // Ouverture de fichier avec droit lecture ("r" pour read)
 
     if (fichier != NULL)
     {

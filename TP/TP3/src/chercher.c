@@ -27,9 +27,9 @@ int main()
     {
         if (tab[i] == entier) // Si tab[i] vaut l'entier choisit par l'utilisateur
         {
-            printf("l'entier %d est present dans le tableau de taille %d", entier, n); 
+            printf("l'entier %d est present dans le tableau de taille %d", entier, n);
         }
-        }
+    }
 
     return (0); // Valeur de retour du  main()
 }

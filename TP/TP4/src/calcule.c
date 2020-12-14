@@ -48,11 +48,12 @@ int negation(int num1)
 int main(int argc, char *argv[])
 {
 
-    char *op = argv[1];
+    char *op = argv[1]; // Affectation du premiere paramètre saisi
 
     /* Convertir les paramètres en int */
-    int nb1 = atoi(argv[2]);
-    int nb2 = atoi(argv[3]);
+
+    int nb1 = atoi(argv[2]); // Deuxième paramètre
+    int nb2 = atoi(argv[3]); // Troisième paramètre
 
     switch (*op)
     {
