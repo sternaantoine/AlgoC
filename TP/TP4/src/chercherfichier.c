@@ -35,6 +35,8 @@ int main(int argc, char **argv)
         puts(p);
     }
 
+    /* Affichage du résultat */
+
     printf("Le mot '%s' a été trouvé %d fois", mot_a_trouver, compteur);
 
     return 0;

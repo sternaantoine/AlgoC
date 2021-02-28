@@ -1,13 +1,19 @@
 # Bibliothèques
-* 
-*
+* #include <stdio.h>
+* #include <stdlib.h>
+* #include <string.h>
+* #include <stdbool.h>
+
 
 # Références
-*
-*
+* stackoverflow.com
+* waytolearn.com
+* jscourses
+* prod-e.campus.cpe.fr
+* koor.fr/C/
 
 # Difficulté
-*
+* Difficile 
 
 # Commentaires
 * 

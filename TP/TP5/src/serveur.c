@@ -127,11 +127,6 @@ int recois_numeros_calcule(int socketfd){
     renvoie_message(client_socket_fd, data);
 
 
-    /*//Si le message commence par le mot: 'message:'
-    if (strcmp(code, "message:") == 0) {strcpy(temp,"");
-        renvoie_message(client_socket_fd, data);
-    }*/
-
     //fermer le socket
     close(socketfd);
 }
